@@ -1,0 +1,20 @@
+body {
+	background-image: url(http://wallpoper.com/images/00/44/72/57/cool-abstract-background_00447257.jpg);
+	font-family: "Times New Roman",Verdana,Sans-serif;
+	color: White;
+	font-size: 22px;
+	width: 400px;
+	margin: auto;
+	
+}
+input[type=text]:focus,input[type=password]:focus
+{
+	background-color: lightgreen;
+}
+
+
+
+
+
+
+
